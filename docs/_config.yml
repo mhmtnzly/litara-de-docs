@@ -1,0 +1,9 @@
+title: Litara Deutsch
+description: Privacy policy and documentation for the Litara Deutsch app
+theme: minima
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/mhmtnzly/litara-de-docs
+plugins:
+  - jekyll-seo-tag
